@@ -1,4 +1,4 @@
-# Emotional Recognition On Images And Video Datasets\
+# Emotional Recognition On Images And Video Datasets
 
 
 - Emotional Recognition using CNN on FER, CK+ datasets with K fold Validation.
